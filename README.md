@@ -2,7 +2,7 @@
 
 ## Task 1: Poster
 
-Task one replicates the below poster using HTML and CSS. See the live poster [here](https://laurak0.github.io/Take-home-challenge-3/).
+Task one replicates the below poster using HTML and CSS. See the live poster [here](https://laurak0.github.io/take-home-challenge-3-part-1/).
 
 ![Juni Festkonzert - 1957 on Flickr - Photo Sharing!](https://user-images.githubusercontent.com/108976875/204322063-111a0333-cc97-415f-992b-3e1f81d8c1ee.jpg)
 
